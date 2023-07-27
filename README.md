@@ -1,8 +1,6 @@
-# React + Vite
+# Pokedex app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*__If you view this please use inspect mode and set the width to 815 otherwise it will not work well.__*
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*This is due to me using margins to quickly and ruffly place the images inside the cut boxes instead of setting a position absolute.*
+*This was a rushed project that I wasnt happy with at all but had to upload it for class learning.*
